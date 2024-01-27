@@ -1,0 +1,41 @@
+*{
+    background-color: aquamarine;
+    font-family: 'Amazon Ember', sans-serif;
+}
+.area{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.area1{
+    border: 2px solid black;
+    width: 117px;
+    height: 112px;
+    text-align: center;
+    font-family: 'Amazon Ember', sans-serif;
+    font-size: 100px;
+}
+.remove{
+    border: none;
+}
+.remove1{
+    border-top: none;
+}
+.remove2{
+    border-left: none;
+}
+.remove3{
+    border-right: none;
+}
+.remove4{
+    border-bottom: none;
+}
+.score{
+    font-family: 'Amazon Ember', sans-serif;;
+    font-size: 20px;
+}
+.game{
+    font-size: 50px;
+    color: blueviolet;
+    text-align: center;
+}
